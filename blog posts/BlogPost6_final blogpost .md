@@ -2,7 +2,7 @@
 
 ## The Finished Game
 
-Lab Escape is an infinite runner built in Unity 6 over the course of one month as part of a game development module. The player controls a human test subject escaping from a research laboratory, running through an endless procedurally generated corridor while dodging obstacles, collecting blood bags, and staying ahead of a relentless security robot.
+Lab Escape is an infinite runner built in Unity 6 during semester 6 as part of the GMD class. The player controls a human test subject escaping from a research laboratory, running through an endless procedurally generated corridor while dodging obstacles, collecting blood bags, and staying ahead of a relentless security robot.
 
 ---
 

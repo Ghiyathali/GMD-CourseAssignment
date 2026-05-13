@@ -8,7 +8,7 @@ This post covers the second development milestone for Lab Escape: building all t
 
 ## Robot Chaser AI
 
-The most technically interesting part of Milestone 2 was building the robot chaser AI. The robot uses a **Finite State Machine** with three states: Chasing, CatchingUp, and Lunging.
+The most technically interesting part of Milestone 2 was building the robot chaser AI. The robot uses a **Finite State Machine** with three states: Chasing, CatchingUp, and "stoping" the player.
 
 In the Chasing state the robot gradually closes the distance to the player over time, creating a slow but constant pressure. If the player gets too far ahead the robot switches to CatchingUp, moving significantly faster until it closes the gap. If the robot gets very close to the player it enters the Lunging state, sprinting at full speed to try to catch them.
 
